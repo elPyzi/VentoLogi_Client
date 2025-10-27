@@ -4,7 +4,7 @@
 Для обеспечения однородности в процессе разработки рекомендуется использовать правила оформления commits на основе спецификации Conventional Commits.
 ## Шаблон оформления Commit
 
-<type>(optional scope): <optional task> - <description>
+`<type>(optional scope): <optional task> - <description>`
 
 Пример:
 feat(home): VL-3 - added home page
